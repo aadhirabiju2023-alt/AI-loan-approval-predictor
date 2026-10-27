@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # LOAD TRAINED MODEL
 # ==========================================
 
-model = joblib.load("models/random_forest_model.pkl")
+model = joblib.load("random_forest_model.pkl")
 
 
 # ==========================================
